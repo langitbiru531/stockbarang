@@ -49,6 +49,10 @@ require 'cek.php';
                                 <div class="sb-nav-link-icon"><i class='fas fa-user-tie' style='font-size:24px;color:skyblue'></i></div>
                                 Kelola Admin
                             </a>
+                            <a class="nav-link" href="admin.php">
+                                <div class="sb-nav-link-icon"><i class='fas fa-user-tie' style='font-size:24px;color:skyblue'></i></div>
+                                Kelola Admin2
+                            </a>
                             <a class="nav-link" href="logout.php">
                                 <div class="sb-nav-link-icon"><i class='fas fa-power-off' style='font-size:24px;color:skyblue'></i></div>
                                 Logout
